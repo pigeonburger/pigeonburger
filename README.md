@@ -6,7 +6,7 @@
 - **Nationality:** Greek-Australian 🇬🇷 🇦🇺
 - **📍:** Melbourne, Australia 🇦🇺
 - **Languages:** Fluent in Python. Confident with PHP, Perl and Javascript.
-- **Hobbies:** Football, Programming, hanging out with friends, GYM 💪
+- **Hobbies:** Football, Programming, hanging out with friends
 
 **Website:** https://pigeonburger.xyz
 
