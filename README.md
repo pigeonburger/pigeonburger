@@ -2,7 +2,7 @@
 
 <h2>About me:</h2>
 
-- **Age:** 15
+- **Age:** 16
 - **Nationality:** Greek-Australian 🇬🇷 🇦🇺
 - **📍:** Melbourne, Australia 🇦🇺
 - **Languages:** Fluent in Python. Confident with PHP, Perl and Javascript.
