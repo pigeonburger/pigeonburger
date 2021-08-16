@@ -5,14 +5,12 @@
 - **Age:** 16
 - **Nationality:** Greek-Australian 🇬🇷 🇦🇺
 - **📍:** Melbourne, Australia 🇦🇺
-- **Languages:** Fluent in Python. Confident with PHP, Perl and Javascript.
+- **Languages:** Fluent in Python. Confident with PHP, Perl and Javascript. Gradually learning C++ (mainly related to Arduino projects).
 - **Hobbies:** Football, Programming, hanging out with friends
 
 **Website:** https://pigeonburger.xyz
 
-<h2>My server:<h2>
-  
-*I was able to buy parts for and build my own server using money raised through donations from fans of my projects! Over $600 was raised.*
+<h2>My home server:<h2>
 
 ![image](https://user-images.githubusercontent.com/70826123/117432974-4becb700-af6e-11eb-916a-c66688f63aad.png)
 
