@@ -4,11 +4,11 @@
 
 <h2>About me:</h2>
 
-- **Age:** 16
+- **Age:** 17
 - **Nationality:** Greek-Australian 🇬🇷 🇦🇺
 - **📍:** Melbourne, Australia 🇦🇺
 - **Languages:** Fluent in Python. Confident with PHP, Perl and Javascript. Gradually learning C++ (mainly related to Arduino projects).
-- **Hobbies:** Football, Programming, hanging out with friends
+- **Hobbies:** Running, Gym, Football, Programming, hanging out with friends
 
 **Website:** https://pigeonburger.xyz
 
@@ -21,7 +21,7 @@
 - **CPU:** AMD Ryzen 7 2700X
 - **Ram:** Team Elite 16gb 3200MHz
 - **Motherboard:** ASRock B450M Pro4
-- **Storage:** Crucial P1 1TB SSD
+- **Storage:** Crucial P1 1TB SSD, WD Red 3TB HDD
 - **Case:** Thermaltake Versa H22
 - **GPU:** Asus GeForce GT 710
 - **OS:** Ubuntu 20.04.2 Server
