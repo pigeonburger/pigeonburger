@@ -7,7 +7,6 @@
 - **Age:** 17
 - **Nationality:** Greek-Australian 🇬🇷 🇦🇺
 - **📍:** Melbourne, Australia 🇦🇺
-- **Languages:** Fluent in Python. Confident with PHP, Perl and Javascript. Gradually learning C++ (mainly related to Arduino projects).
 - **Hobbies:** Running, Gym, Football, Programming, hanging out with friends
 
 **Website:** https://pigeonburger.xyz
