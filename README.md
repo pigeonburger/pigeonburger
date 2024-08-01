@@ -4,7 +4,7 @@
 
 <h2>About me:</h2>
 
-- **Age:** 17
+- **Age:** 19
 - **Nationality:** Greek-Australian 🇬🇷 🇦🇺
 - **📍:** Melbourne, Australia 🇦🇺
 - **Hobbies:** Running, Gym, Football, Programming, hanging out with friends
